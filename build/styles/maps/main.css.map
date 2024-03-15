@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","variaveis.scss"],"names":[],"mappings":"AAEA,KACI,iBCHW,IDIX,YACA,aACA","file":"../main.css","sourcesContent":["@use 'variaveis';\r\n\r\nmain {\r\n    background-color: variaveis.$corPrincipal;\r\n    width: 500px;\r\n    height: 500px;\r\n    margin: 0 auto;\r\n}","$corPrincipal: red;"]}
